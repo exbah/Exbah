@@ -9,6 +9,7 @@
 📫 **How to reach me:** [https://www.linkedin.com/in/isbah-amin-662401248/]
 
 ## 🛠️ Tech Stack
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png
 
 
 <p align="center">
