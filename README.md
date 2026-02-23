@@ -1,12 +1,12 @@
-# Hi there, I'm [TUMHARA NAAM] 👋
+# Hi there, I'm [Isbah Amin] 👋
 
-## 🚀 DevOps Engineer | Cloud Enthusiast
+## 🚀 DevOps Engineer | Aws Certified DevOps Eng
 
-🔭 **Currently working on:** Kubernetes cluster setup with Kind  
-🌱 **Learning:** AWS, Docker, Kubernetes, Terraform  
+🔭 **Pro on:** Kubernetes
+🌱 **AWS, Docker, Kubernetes, Terraform  
 👯 **Looking to collaborate on:** DevOps open source projects  
 💬 **Ask me about:** Kubernetes, Docker, Cloud  
-📫 **How to reach me:** [LinkedIn URL]
+📫 **How to reach me:** [https://www.linkedin.com/in/isbah-amin-662401248/]
 
 ## 🛠️ Tech Stack
 
